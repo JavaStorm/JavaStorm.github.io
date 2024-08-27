@@ -1,0 +1,27 @@
+{
+    "name": "Welcome",
+    "icon": "minecraft:writable_book",
+    "category": "category_basics",
+	"priority": true,
+    "pages": [
+        {
+            "type": "text",
+            "text": " Welcome to the fabled lost continent! It is a very strange, mystical place filled with beauty and wonder... and potential profit! $(br2) As the first settler chosen to make the journey here, it is up to you to test the waters and prove to the Empire how valuable this land will be to further settle."
+        },
+		
+		{
+			"type": "text",
+			"text": " There are a few things you should be aware of first...$(br2) $(li)No monsters in the dark! $(li)No Ores! It's all rock. $(li)No Nether! $(br2) However, don't worry! There are ways to get metals, as well as scratch your fighting itch!"
+		},
+		
+		{
+			"type": "text",
+			"text": " Essentially, your mission is to make money and learn more about the land. Do what you think would be best in both regards. Grow crops, ranch animals, brew some alcohol!$(br2) There are plenty of ruins that dot the landscape, and you just might find something valuable tucked away inside them. Good luck, brave settler! Her Majestry thanks you for your service."
+		},
+		
+		{
+			"type": "text",
+			"text": " Be wary though, monsters can still come out of spawners or strange events. You can play in peaceful mode, but you can't avoid hunger in it!"
+		}
+    ]
+}

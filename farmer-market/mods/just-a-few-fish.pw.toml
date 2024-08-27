@@ -1,0 +1,13 @@
+name = "Just a Few Fish"
+filename = "JustAFewFish-1.7_for_1.12.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b843ae27c83073f02664488a432625c5394ae610"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2448283
+project-id = 235261

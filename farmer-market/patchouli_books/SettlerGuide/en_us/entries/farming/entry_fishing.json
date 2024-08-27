@@ -1,0 +1,51 @@
+{
+    "name": "Fishing",
+    "icon": "minecraft:fish",
+    "category": "category_farming",
+    "pages": [
+		{
+			"type": "text",
+			"text": " You can fish in rivers, lakes, and the ocean for all sorts of fish! A vanilla fishing rod will give you vanilla and harvestcraft aquatic life, while Just a Few Fish's rods will give you guaranteed vanilla fish, but with a twist!"
+		},
+		
+		{
+			"type": "crafting",
+			"recipe": "jaff:wooden_fishing_rod",
+			"recipe2": "jaff:iron_hook"
+		},
+		
+		{
+			"type": "spotlight",
+			"item": "jaff:wooden_fishing_rod",
+			"title": "New Rod Mechanics",
+			"text": " This special fishing rod is interesting. First, you have to load it with bait by crafting it with any kind of seed in any amount.$(br) Next, use it like a normal fishing rod and cast the line.$(br) Then, wait until a fish hooks onto it. Only fish that actually spawn as entities will bite on.$(br) Finally, reel in the fish! Don't spam-click, or else it'll break."
+		},
+		
+		{
+			"type": "entity",
+			"entity": "jaff:pufferfish",
+			"offset": -.4,
+			"scale": 2,
+			"text": " One of the types of fish that spawns in the water. You can also \"fish\" by attacking them in the water!"
+		},
+		
+		{
+			"type": "spotlight",
+			"item": "jaff:fish_bucket_cod",
+			"title": "Catching Fish",
+			"text": " If you have an empty bucket when you reel in a fish, you will catch it in your bucket. To let it go, simply right-click the bucket into the world to release the fish along with the bucket's contents. $(br2)Captured fish can be placed in a fish farm."
+		},
+		
+		{
+			"type": "spotlight",
+			"item": "jaff:tank",
+			"title": "Fish Farming",
+			"text": " That's right, there's a fish farm, where you can breed your fish to make more and potentially sell!$(br2) Place down tank blocks in any shape you want (they're a freeform multiblock), and right-click it with a captured fish in a bucket to release it into the farm."
+		},
+		
+		{
+			"type": "text",
+			"text": " To breed the fish, simply toss some seeds into the farm, the fish will eat it and mate.$(br2) To harvest the fish, simply use a rod or hit them with a weapon."
+		}
+	]
+}

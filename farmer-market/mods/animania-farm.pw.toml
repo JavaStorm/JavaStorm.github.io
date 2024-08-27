@@ -1,0 +1,13 @@
+name = "Animania Farm"
+filename = "animania-1.12.2-farm-1.0.0.23.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "40af6fe069e77b85e9e13de17ebea3e502ee29d2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3054921
+project-id = 407632

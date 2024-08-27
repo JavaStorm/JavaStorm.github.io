@@ -1,0 +1,13 @@
+name = "Animania Base"
+filename = "animania-1.12.2-base-2.0.0.23.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "864c9a90c97c09558a3382f3554dabe07afd1147"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3054917
+project-id = 261199

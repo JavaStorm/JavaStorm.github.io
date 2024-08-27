@@ -1,0 +1,12 @@
+{
+    "name": "Totemic",
+    "icon": "totemic:tipi",
+    "category": "category_basics",
+    "pages": [
+		
+		{
+			"type": "text",
+			"text": " There is an interesting form of tribal magic that isn't too hard to tap into. Use the power of music and animal totems to give yourself buffs, transform items and animals, and change the world around you! Check the totempedia for more information."
+		}
+    ]
+}

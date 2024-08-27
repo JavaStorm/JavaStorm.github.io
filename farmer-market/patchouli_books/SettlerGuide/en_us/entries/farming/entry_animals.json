@@ -1,0 +1,49 @@
+{
+    "name": "Animania",
+    "icon": "animania:friesian_cheese_wheel",
+    "category": "category_farming",
+    "pages": [
+		{
+			"type": "text",
+			"text": " Welcome to the Jungle! There are plenty of wild animals around, but many of them can be easily domesticated. By doing so, you can have a stable source of animal products you can refine or sell, as well as an emergency food source!"
+		},
+		
+		{
+			"type": "text",
+			"text": " SUPER DUPER WARNING! Animania animals will eat your growing crops, so make sure to surround your farm with fences!"
+		},
+		
+		{
+			"type": "text",
+			"text": " There's a wide variety of animals to be domesticated! There are$(li)Cows $(li)Chickens $(li)Sheep $(li)Goats $(li)Pigs $(li)Rabbits $(li)Horses $(li)Peacocks $(li)Deer"
+		},
+		
+		{
+			"type": "spotlight",
+			"item": "minecraft:wheat",
+			"title": "Proper Care",
+			"text": " Animals get hungry AND thirsty! Use a trough filled with food or water to keep them well fed hydrated. Cows, Goats, Horses, Pigs and Sheep can eat from troughs, and you can even fill them with Oats and Barley from Harvestcraft!$(br2) Animals need to be happy to give good drops and make babies!"
+		},
+		
+		{
+			"type": "spotlight",
+			"item": "animania:truffle",
+			"title": "Animal Products",
+			"text": " Most animals produce some kind of product you can refine or sell. $(li)Cows, sheep, and goats make milk $(li)sheep are sheared for wool$(li)pigs find truffles $(li)Chickens and peafowl lay eggs in nests"
+		},
+		
+		{
+			"type": "spotlight",
+			"item": "animania:friesian_cheese_wheel",
+			"title": "Processed Goods",
+			"text": " Many goods can be processed into new forms! Place a bucket of milk in a cheese mold and wait to make a cheese wheel. Many animals can be slaughtered for meat and leather (though it's not very nice)"
+		},
+		
+		{
+			"type": "spotlight",
+			"item": "animania:block_hamster_wheel",
+			"title": "Pets!",
+			"text": " There are several animals that behave as pets! They include $(li)Hamsters $(li)Hedgehogs $(li)Ferrets $(br) The hamster wheel can even be used to generate power!"
+		}
+	]
+}

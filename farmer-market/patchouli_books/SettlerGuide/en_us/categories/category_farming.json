@@ -1,0 +1,6 @@
+{
+	"name": "Farming",
+	"description": "Learn all about the different goods you can acquire to prove to the empire how bountiful this new land is. $(br2) Most of these goods can be sold to the Empire for further funding.",
+	"icon": "rustic:sapling",
+	"sortnum": 1
+}

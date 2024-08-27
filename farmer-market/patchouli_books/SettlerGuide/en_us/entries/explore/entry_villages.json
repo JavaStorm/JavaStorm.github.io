@@ -1,0 +1,21 @@
+{
+    "name": "Villages",
+    "icon": "minecraft:emerald",
+    "category": "category_explore",
+    "pages": [
+		{
+			"type": "text",
+			"text": " There are plenty of villages for you to explore! They have neat buildings and farms, as well as lots of potential loot er.. I mean \"reclaimable artifacts\""
+		},
+		
+		{
+			"type": "text",
+			"text": " Their citizens live simple lives, and should be willing to trade with you. Do note their preferred currency is Enerald gems. You'll have to sell to them first to be able to buy from them, with the lack of emeralds in the ground. Or, you could buy some from us!"
+		},
+		
+		{
+			"type": "text",
+			"text": " Of course, there are your own villages you can start yourself, but it'd be best to call them small towns or colonies to prevent confusion"
+		}
+	]
+}

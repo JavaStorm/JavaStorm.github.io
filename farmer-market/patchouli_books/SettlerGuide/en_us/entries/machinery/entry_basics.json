@@ -1,0 +1,32 @@
+{
+    "name": "Introduction",
+    "icon": "botania:cosmetic:31",
+    "category": "category_heavymachinery",
+	"priority": true,
+    "pages": [
+        {
+            "type": "text",
+            "text": " Welcome to the wonderful world of Heavy Machinery! Using the power of automobile engines and combustible fuel, you can put these machines to work in your farms! You'll still have to drive them, but they can farm large swathes of land in little time!"
+        },
+		
+		{
+			"type": "spotlight",
+			"item": "immersiveengineering:metal:8",
+			"title": "Prerequisites",
+			"text": " Before you can really get into heavy machinery, do know that it requires lots of iron and steel to actually create machines. You also need some kind of combustible fuel, which will require an existing level of technological infrastructure."
+		},
+		
+		{
+			"type": "spotlight",
+			"item": "machinemod:fuelcan",
+			"title": "Fuel",
+			"text": " All machines run on combustible fuel. This includes Ethanol (Forestry), Biodiesel (Immersive Engineering), Diesel and Gasoline (Immersive Petroleum), and Dense Fuel and Light Fuel (Buildcraft). Just craft an empty Fuel Can with a bucket of any of these fuels to fill it up, and right click a machine in the world to fill that up."
+		},
+		
+		{
+			"type": "text",
+			"title": "Controls",
+			"text": " These are the default controls. Right-click to enter a machine, Left-Shift (sneak) to exit, Control Key to activate the special function of a machine, be it to till land, grade the ground, etc. Open your inventory while riding a machine to access its inventory instead, and insert any tools or materials it uses. For example, add a Plow to a tractor's inventory to till the ground, or a planter and seeds to plant them."
+		}
+    ]
+}

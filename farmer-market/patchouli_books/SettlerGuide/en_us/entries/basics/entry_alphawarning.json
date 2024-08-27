@@ -1,0 +1,12 @@
+{
+    "name": "Early Alpha",
+    "icon": "botania:cosmetic:31",
+    "category": "category_basics",
+	"priority": true,
+	"pages": [
+		{
+			"type": "text",
+			"text": " Note: This modpack is currently in a very early alpha release, thus many features won't be available yet or properly balanced.$(br2) Please report any bugs and OP/underpowered mechanics on the discord server!"
+		}
+	]
+}

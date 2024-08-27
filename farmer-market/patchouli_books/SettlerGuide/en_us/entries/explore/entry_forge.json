@@ -1,0 +1,16 @@
+{
+    "name": "Forges",
+    "icon": "chisel:basalt:1",
+    "category": "category_explore",
+    "pages": [
+		{
+			"type": "text",
+			"text": " Throughout the land you might find ruins made out of a black stone with metal chimneys and flowing lava inside. These were probably once forges used to create steel and other highly industrial metals."
+		},
+		
+		{
+			"type": "text",
+			"text": " There still might be traces of these materials you can make use of, such as slag, which is needed for producing steel. There should also be various alloys, though their usefulness is suspect."
+		}
+	]
+}

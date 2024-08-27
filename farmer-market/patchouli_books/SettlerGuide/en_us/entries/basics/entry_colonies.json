@@ -1,0 +1,21 @@
+{
+    "name": "Colony Construction",
+    "icon": "minecolonies:supplycampdeployer",
+    "category": "category_basics",
+    "pages": [
+        {
+            "type": "text",
+            "text": " Remember that you're the main expiditionary force. Settlers will follow if you can prove that this land can sustain them!"
+        },
+		
+		{
+			"type": "text",
+			"text": " And the best way to prove that is by earning money! If you recall, we will send over settlers and permits to construct new buildings for your settlement in exchange for money. There is a category in the shop for purchasing these."
+		},
+		
+		{
+			"type": "text",
+			"text": " The actual colony system (via minecolonies) is quite complicated and a full set of instructions won't fit in this book (easily). Thus, please consult your favorite guides on the matter."
+		}
+    ]
+}

@@ -1,0 +1,54 @@
+ {
+    "name": "Resource Transfer",
+    "icon": "immersiveengineering:conveyor",
+    "category": "category_automation",
+	"priority": false,
+    "pages": [
+        {
+            "type": "text",
+            "text": " Moving your resources around can be quite a challenge, whether they be items, fluids, or power! For power, you'll want to check out the \"Power Infrastructure\" section in the \"Technology\" chapter, but you can find information on everything else here!"
+        },
+		
+		{
+			"type": "spotlight",
+			"item": "buildcrafttransport:pipe_wood_item",
+			"title": "Basic Item Transfer",
+			"text": " Buildcraft pipes are the most basic way to transfer items. Attach a wooden pipe to the inventory you wish to extract from, and use other Buildcraft item pipes to chain it to wherever you want the items to go! You'll also have to \"power\" the wooden pipe as well, however."
+		},
+		
+		{
+			"type": "spotlight",
+			"item": "buildcraftcore:engine",
+			"title": "Powering BC Transfer",
+			"text": " To actually get items to start moving, you'll have to power the wooden pipe. Don't worry, all that means is that you have to place a Redstone engine with its smaller end on the wooden pipe and supply the engine with a redstone signal, preferrably via a lever on the engine itself."
+		},
+		
+		{
+			"type": "spotlight",
+			"item": "buildcrafttransport:pipe_wood_fluid",
+			"title": "Basic Fluid Transfer",
+			"text": " Buildcraft can also be used to transfer liquids! All of the same rules as item transfer apply, but you use fluid pipes instead! Fluid pipes can be made by crafting the corresponding item pipe with pipe sealant, made by crafting green dye (from smelting cacti) by itself, or from slimeballs."
+		},
+		
+		{
+			"type": "spotlight",
+			"item": "immersiveengineering:conveyor",
+			"title": "Advanced Item Transfer",
+			"text": " A cooler looking, non-powered way to move items around is via Immersive Engineering conveyor belts. They come in many variants which have their own very useful properties. The only disadvantage is that they have to be placed on a block and the items on top get picked up if you walk over them."
+		},
+		
+		{
+			"type": "spotlight",
+			"item": "immersiveengineering:metal_device1:6",
+			"title": "Advanced Fluid Transfer",
+			"text": " Immersive Engineering Fluid Pipes offer a higher rate of fluid transfer than buildcraft. The only problem is that they don't automatically extract fluids themselves. You'll need a pump for that!"
+		},
+		
+		{
+			"type": "spotlight",
+			"item": "immersiveengineering:metal_device0:5",
+			"title": "Fluid Pump",
+			"text": " This pump is multi-purpose, in that it can move fluids from an inventory as well as from the world itself. You need to supply it with a redstone signal to turn it on and use the engineer's hammer to set the output side. You can optionally supply it with power to increase the pump rate and allow for in-world pumping."
+		}
+    ]
+}

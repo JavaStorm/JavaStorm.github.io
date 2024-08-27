@@ -1,0 +1,13 @@
+name = "TechStack's Heavy Machinery Mod"
+filename = "MachineMod-1.12.2-1.1-Pre-ALPHA-Build-286.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "26a7e58e90ef588ec7022b803e7992e17a15aafa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2806835
+project-id = 228320

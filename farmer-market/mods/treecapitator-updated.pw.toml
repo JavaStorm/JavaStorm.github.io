@@ -1,0 +1,13 @@
+name = "Treecapitator Updated"
+filename = "[1.12]TreeCapitator-client-1.43.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d58eb72603d7d58ad5a5982da8684fe2b9703bfb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2722878
+project-id = 324007

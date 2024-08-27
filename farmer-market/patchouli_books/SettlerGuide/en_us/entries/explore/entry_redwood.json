@@ -1,0 +1,11 @@
+{
+    "name": "Redwood Trees",
+    "icon": "natura:redwood_sapling",
+    "category": "category_explore",
+    "pages": [
+		{
+			"type": "text",
+			"text": " You might run into these massive trees once in a while. Their branches can reach and blot out the sky, even! There's not much to them in terms of loot, but there is a lot of wood you can use and could make for an amazing treehouse!"
+		}
+	]
+}

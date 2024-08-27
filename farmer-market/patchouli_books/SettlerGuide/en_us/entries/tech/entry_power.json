@@ -1,0 +1,73 @@
+{
+    "name": "Power Generation",
+    "icon": "immersivepetroleum:metal_device:1",
+    "category": "category_tech",
+	"priority": false,
+    "pages": [
+        {
+            "type": "text",
+            "text": " A lot of the more advanced machinery requires electricity to run. Luckily for you, there are a variety of ways to generate it!"
+        },
+		
+		{
+			"type": "spotlight",
+			"item": "forestry:engine_clockwork",
+			"title": "Clockwork Engine",
+			"text": " A very simple engine that you have to manually wind up to produce power. Careful not to overwind it, or else it'll hurt!"
+		},
+		
+		{
+			"type": "spotlight",
+			"item": "forestry:engine_peat",
+			"title": "Peat-Fired Engine",
+			"text": " This engine burns peat and bituminous peat to produce power. It'll even output ash as it burns through it, so you'll have to clear that out once in a while."
+		},
+		
+		{
+			"type": "spotlight",
+			"item": "forestry:engine_biogas",
+			"title": "Biogas Engine",
+			"text": " This is a very interesting engine. It takes lava and some kind of liquid fuel. If you use water or milk, it'll use up the lava quickly, but fruit juice, liquid biomass, seed oil, or liquid honey will only use a little bit of lava on initial startup."
+		},
+		
+		{
+			"type": "spotlight",
+			"item": "immersiveengineering:wooden_device1:1",
+			"title": "Kinetic Power",
+			"text": " You can get power without any maintenance through a kinetic dynamo. You can attach either a windmill or water wheel, place it high up or with water flowing around it, and pipe power out from the top of the dynamo."
+		},
+		
+		{
+			"type": "spotlight",
+			"item": "immersiveengineering:metal_device1:3",
+			"title": "Thermo-electric Power",
+			"text": " This generator produces power from the difference in temperature between two substances placed on opposite ends of this generator. You can even place multiple pairs of substances next to the generator to double the power output."
+		},
+		
+		{
+			"type": "text",
+			"text": " Power can be outputted from any side. Water, ice, and packed ice are great for coolants, while lava and uranium blocks are great for heat."
+		},
+		
+		{
+			"type": "spotlight",
+			"item": "immersivepetroleum:metal_device:1",
+			"title": "Portable Generator",
+			"text": " This block-sized generator uses diesel to produce power! It's quite simple, but the fuel it runs on is difficult to acquire."
+		},
+		
+		{
+			"type": "spotlight",
+			"item": "immersiveengineering:metal_decoration0:6",
+			"title": "Diesel Generator",
+			"text": " This amazing multiblock produces absolutely ludicrous amounts of power at the cost of lots of rare fuel. If you can set up the infrastructure required for it, you deserve a pat on the back!"
+		},
+		
+		{
+			"type": "spotlight",
+			"item": "immersiveengineering:metal_decoration1",
+			"title": "Lightning Rod",
+			"text": " This multiblock has a chance to be struck during thunderstorms and produce a lot of power. The higher you make the mast, the higher the chance that lightning will strike it!"
+		}
+    ]
+}

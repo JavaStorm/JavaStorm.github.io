@@ -1,0 +1,274 @@
+[
+  {
+    "inputFluid": "water",
+    "outputFluid": "witchwater",
+    "transformingBlocks": [
+      {
+        "name": "minecraft:mycelium",
+        "meta": 0
+      }
+    ],
+    "blocksToSpawn": [
+      {
+        "name": "minecraft:brown_mushroom",
+        "meta": 0
+      },
+      {
+        "name": "minecraft:red_mushroom",
+        "meta": 0
+      }
+    ],
+    "duration": 12000
+  },
+  
+  {
+    "inputFluid": "binnie.juice.apple",
+    "outputFluid": "binnie.cider.apple",
+    "transformingBlocks": [
+      {
+        "name": "minecraft:mycelium",
+        "meta": 0
+      }
+    ],"blocksToSpawn": [],
+	"duration": 24000
+  },
+  {
+    "inputFluid": "binnie.juice.apricot",
+    "outputFluid": "binnie.wine.apricot",
+    "transformingBlocks": [
+      {
+        "name": "minecraft:mycelium",
+        "meta": 0
+      }
+    ],"blocksToSpawn": [],
+	"duration": 24000
+  },
+  {
+    "inputFluid": "binnie.juice.banana",
+    "outputFluid": "binnie.wine.banana",
+    "transformingBlocks": [
+      {
+        "name": "minecraft:mycelium",
+        "meta": 0
+      }
+    ],"blocksToSpawn": [],
+	"duration": 24000
+  },
+  {
+    "inputFluid": "binnie.juice.cherry",
+    "outputFluid": "binnie.wine.cherry",
+    "transformingBlocks": [
+      {
+        "name": "minecraft:mycelium",
+        "meta": 0
+      }
+    ],"blocksToSpawn": [],
+	"duration": 24000
+  },
+  {
+    "inputFluid": "binnie.juice.elderberry",
+    "outputFluid": "binnie.wine.elderberry",
+    "transformingBlocks": [
+      {
+        "name": "minecraft:mycelium",
+        "meta": 0
+      }
+    ],"blocksToSpawn": [],
+	"duration": 24000
+  },
+  {
+    "inputFluid": "binnie.juice.lemon",
+    "outputFluid": "binnie.wine.citrus",
+    "transformingBlocks": [
+      {
+        "name": "minecraft:mycelium",
+        "meta": 0
+      }
+    ],"blocksToSpawn": [],
+	"duration": 24000
+  },
+  {
+    "inputFluid": "binnie.juice.lime",
+    "outputFluid": "binnie.wine.citrus",
+    "transformingBlocks": [
+      {
+        "name": "minecraft:mycelium",
+        "meta": 0
+      }
+    ],"blocksToSpawn": [],
+	"duration": 24000
+  },
+  {
+    "inputFluid": "binnie.juice.orange",
+    "outputFluid": "binnie.wine.citrus",
+    "transformingBlocks": [
+      {
+        "name": "minecraft:mycelium",
+        "meta": 0
+      }
+    ],"blocksToSpawn": [],
+	"duration": 24000
+  },
+  {
+    "inputFluid": "binnie.juice.grapefruit",
+    "outputFluid": "binnie.wine.citrus",
+    "transformingBlocks": [
+      {
+        "name": "minecraft:mycelium",
+        "meta": 0
+      }
+    ],"blocksToSpawn": [],
+	"duration": 24000
+  },
+  {
+    "inputFluid": "binnie.juice.peach",
+    "outputFluid": "binnie.brandy.peach",
+    "transformingBlocks": [
+      {
+        "name": "minecraft:mycelium",
+        "meta": 0
+      }
+    ],"blocksToSpawn": [],
+	"duration": 24000
+  },
+  {
+    "inputFluid": "binnie.juice.plum",
+    "outputFluid": "binnie.wine.plum",
+    "transformingBlocks": [
+      {
+        "name": "minecraft:mycelium",
+        "meta": 0
+      }
+    ],"blocksToSpawn": [],
+	"duration": 24000
+  },
+  
+  {
+    "inputFluid": "binnie.juice.carrot",
+    "outputFluid": "binnie.wine.carrot",
+    "transformingBlocks": [
+      {
+        "name": "minecraft:mycelium",
+        "meta": 0
+      }
+    ],"blocksToSpawn": [],
+	"duration": 24000
+  },
+  {
+    "inputFluid": "binnie.juice.tomato",
+    "outputFluid": "binnie.wine.tomato",
+    "transformingBlocks": [
+      {
+        "name": "minecraft:mycelium",
+        "meta": 0
+      }
+    ],"blocksToSpawn": [],
+	"duration": 24000
+  },
+  {
+    "inputFluid": "binnie.juice.cranberry",
+    "outputFluid": "binnie.wine.cranberry",
+    "transformingBlocks": [
+      {
+        "name": "minecraft:mycelium",
+        "meta": 0
+      }
+    ],"blocksToSpawn": [],
+	"duration": 24000
+  },
+  {
+    "inputFluid": "binnie.juice.pineapple",
+    "outputFluid": "binnie.wine.pineapple",
+    "transformingBlocks": [
+      {
+        "name": "minecraft:mycelium",
+        "meta": 0
+      }
+    ],"blocksToSpawn": [],
+	"duration": 24000
+  },
+  {
+    "inputFluid": "binnie.juice.red.grape",
+    "outputFluid": "binnie.wine.red",
+    "transformingBlocks": [
+      {
+        "name": "minecraft:mycelium",
+        "meta": 0
+      }
+    ],"blocksToSpawn": [],
+	"duration": 24000
+  },
+  
+  {
+    "inputFluid": "binnie.juice.pear",
+    "outputFluid": "binnie.cider.pear",
+    "transformingBlocks": [
+      {
+        "name": "minecraft:mycelium",
+        "meta": 0
+      }
+    ],"blocksToSpawn": [],
+	"duration": 24000
+  },
+  
+  {
+    "inputFluid": "binnie.juice.white.grape",
+    "outputFluid": "binnie.wine.white",
+    "transformingBlocks": [
+      {
+        "name": "minecraft:mycelium",
+        "meta": 0
+      }
+    ],"blocksToSpawn": [],
+	"duration": 24000
+  },
+  
+  {
+    "inputFluid": "agavejuice",
+    "outputFluid": "binnie.wine.agave",
+    "transformingBlocks": [
+      {
+        "name": "minecraft:mycelium",
+        "meta": 0
+      }
+    ],"blocksToSpawn": [],
+	"duration": 24000
+  },
+  
+  {
+    "inputFluid": "honey",
+    "outputFluid": "short.mead",
+    "transformingBlocks": [
+      {
+        "name": "minecraft:mycelium",
+        "meta": 0
+      }
+    ],"blocksToSpawn": [],
+	"duration": 24000
+  },
+  
+  {
+    "inputFluid": "animania_honey",
+    "outputFluid": "short.mead",
+    "transformingBlocks": [
+      {
+        "name": "minecraft:mycelium",
+        "meta": 0
+      }
+    ],"blocksToSpawn": [],
+	"duration": 24000
+  },
+  
+  {
+    "inputFluid": "for.honey",
+    "outputFluid": "short.mead",
+    "transformingBlocks": [
+      {
+        "name": "minecraft:mycelium",
+        "meta": 0
+      }
+    ],"blocksToSpawn": [],
+	"duration": 24000
+  }
+  
+]

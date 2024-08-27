@@ -1,0 +1,11 @@
+{
+    "name": "Ruins",
+    "icon": "minecraft:stonebrick:1",
+    "category": "category_explore",
+    "pages": [
+		{
+			"type": "text",
+			"text": " Ancient ruins dot the landscape, filled with strange secrets and hidden loot. Don't see any? That's because they're a work in progress. Sorry about that :/"
+		}
+	]
+}

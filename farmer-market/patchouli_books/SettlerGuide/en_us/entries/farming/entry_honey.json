@@ -1,0 +1,55 @@
+{
+    "name": "Honey",
+    "icon": "forestry:bee_combs",
+    "category": "category_farming",
+    "pages": [
+		
+		{
+			"type": "spotlight",
+			"item": "forestry:apiary",
+			"title": "Forestry Honey",
+			"text": " This type of honey is the most difficult to get, but also the most valuable. You need to place bees inside of a Forestry apiary, which is constructed using expensive machines such as the Carpenter.$(br) Apiaries have to be kept in the correct biome for the bees inside of it and must have flowers nearby."
+		},
+		
+		{
+			"type": "text",
+			"text": " There are ways to automate the bee keeping, as well as bee breeding, when you progress far enough through Forestry and Binnie's."
+		},
+		
+		{
+			"type": "spotlight",
+			"item": "harvestcraft:apiary",
+			"title": "Harvestcraft Honey",
+			"text": " This is one of the easier methods of getting honey. Simply place down a Harvestcraft apiary and place a queen bee inside. It'll produce honeycombs, wax combs, and bee grub occasionally.$(br) Speed up the process by placing flowers around the apiary."
+		},
+		
+		{
+			"type": "text",
+			"text": " Queen bees can be found in Harvestcraft bee hives scattered about the world. The apiary can be automated by inserting queen bees from the top and extracting the outputs from the bottom."
+		},
+		
+		{
+			"type": "spotlight",
+			"item": "animania:bee_hive",
+			"title": "Animania Honey",
+			"text": " Animania honey can be obtained from bee hives and bee nests that appear across the land, though not too often. Bee nests might attack you on approach, but they can be broken to and made into a bee hive.$(br) To get honey, right click with a bottle or bucket when the hive or nest is full, and it'll extract the honey."
+		},
+		
+		{
+			"type": "text",
+			"text": " When put into a bottle, Animania honey also provides some powerful buffs when drunk!"
+		},
+		
+		{
+			"type": "spotlight",
+			"item": "rustic:brewing_barrel",
+			"title": "Mead!",
+			"text": " Most honey items can be smushed into liquid form using Rustic crushing tubs. That liquid honey can then be fermented using Ex Nihilo barrels into short mead!$(br) The liquid honey and mead are both sellable, each more expensive than the last."
+		},
+		
+		{
+			"type": "text",
+			"text": " You could also use a Rustic brewing barrel to make mead that has positive effects when drunk, but it won't sellable."
+		}
+	]
+}

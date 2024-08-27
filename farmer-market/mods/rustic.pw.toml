@@ -1,0 +1,13 @@
+name = "Rustic"
+filename = "rustic-1.1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c730a1fde66beea4d8cb5ef1c8be7bce990126b1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3053139
+project-id = 256141

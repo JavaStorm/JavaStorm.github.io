@@ -1,0 +1,54 @@
+{
+    "name": "Steel",
+    "icon": "immersiveengineering:metal:8",
+    "category": "category_tech",
+	"priority": false,
+    "pages": [
+        {
+            "type": "text",
+            "text": " Steel is a difficult to acquire alloy of iron and carbon, but it is necessary to acquire the most advanced technologies."
+        },
+		
+		{
+			"type": "spotlight",
+			"item": "immersiveengineering:stone_decoration:1",
+			"title": "Blast Furnace",
+			"text": " The simplest way to make steel is to place it in a blast furnace with charcoal or coal coke. It'll require nether brick and slag to make. Netherrack can be obtained by mixing cobblestone with lava in a wooden basin. Slag, on the other hand, is a bit more complicated."
+		},
+		
+		{
+			"type": "spotlight",
+			"item": "immersiveengineering:material:7",
+			"title": "Slag",
+			"text": " The only way to create slag is via the steel production process, but you need it to start making steel! Our scouts indicate ruins made of black basalt stone that were probably used as forges. You might find some slag stored in them."
+		},
+		
+		{
+			"type": "crafting",
+			"recipe": "ieBlastBrickSlag",
+			"title": "Blast Bricks",
+			"text": " Place these in a 3x3x3 cube, and right-click the center with an engineer's hammer to complete the structure."
+		},
+		
+		{
+			"type": "spotlight",
+			"item": "immersiveengineering:stone_decoration:2",
+			"title": "Improved Blast Furnace",
+			"text": " There's an upgraded form of the blast furnace that makes steel faster, which is made by using reinforced blast bricks in the same shape, but with a hopper on top of the middle-top block. Right click a middle front-facing blast brick to complete the structure."
+		},
+		
+		{
+			"type": "crafting",
+			"recipe": "immersiveengineering:stone_decoration/blastbrick_reinforced",
+			"title": "Reinforced Blast Bricks",
+			"text": " Just craft regular blast bricks with a steel plate! Yes, you need a normal blast furnace running to get the steel for the plates in the first place."
+		},
+		
+		{
+			"type": "spotlight",
+			"item": "immersiveengineering:metal_device1",
+			"title": "Preheaters",
+			"text": " You can place a blast furance preheater on either side of an IMPROVED blast furnace to speed up the steel production process even further. They need power however, which can be supplied to the top."
+		}
+    ]
+}
