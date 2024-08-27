@@ -1038,6 +1038,11 @@ hash = "e8b442af87fe31b91ee07bd4ac4f048827b8bf7105d65e0803506366fdf5cb2d"
 metafile = true
 
 [[files]]
+file = "mods/alfheim-lighting-engine.pw.toml"
+hash = "38b628f90818b2e90a98f718b8841f02ae98516a56f821321857187a602e311f"
+metafile = true
+
+[[files]]
 file = "mods/animania-extra.pw.toml"
 hash = "7c86f249ea383450fdee70883d534a774c207202dff5a97e97744938a1e208fd"
 metafile = true
@@ -1180,6 +1185,11 @@ metafile = true
 [[files]]
 file = "mods/ex-nihilo-creatio.pw.toml"
 hash = "1cb500fac0079f6cb958dd9a6f58b4eaf8466a6af7ad3530d505037f35bc5d16"
+metafile = true
+
+[[files]]
+file = "mods/foamfix-optimization-mod.pw.toml"
+hash = "9ebf99a09414c38e4959b828266d83d3983366e1694d0bb901125a85121e97de"
 metafile = true
 
 [[files]]
@@ -18143,6 +18153,11 @@ hash = "9b7b8b86287a18f300563352c6192d5a14dd3a07686288aa2aaff381a4c7ca4a"
 metafile = true
 
 [[files]]
+file = "mods/mixin-booter.pw.toml"
+hash = "7a4b19df0180cc1c5822da95272a9627d7b0a258761a31f9d9d05f236a4ad81e"
+metafile = true
+
+[[files]]
 file = "mods/modelloader.pw.toml"
 hash = "bf46002ff2d9b657ecd80baa538f01a8067958d9155f190cc409d6237da98d22"
 metafile = true
@@ -18183,6 +18198,11 @@ hash = "d5068b4f1841ad93388384dc906189467efdd430b953fe7f7d254524edf78e6e"
 metafile = true
 
 [[files]]
+file = "mods/performant.pw.toml"
+hash = "5865f55ac3ee06486892780710061e5a93d803c16bfaa346520b4203c8f124fc"
+metafile = true
+
+[[files]]
 file = "mods/primal-tech.pw.toml"
 hash = "bb0ce916b3d804d83fd468fc812a6c15f892f7e82cf2521818725234555d8261"
 metafile = true
@@ -18200,6 +18220,11 @@ metafile = true
 [[files]]
 file = "mods/recurrent-complex.pw.toml"
 hash = "ce01d4656863609ccf22371607decdbad41b4d9eb08b210ccd2003e83e313da7"
+metafile = true
+
+[[files]]
+file = "mods/red-core.pw.toml"
+hash = "a6f25081409a7bb9f0a9832ab2d6591de43ebb1f3ed69f85fbc39927f595cd06"
 metafile = true
 
 [[files]]
@@ -18240,6 +18265,11 @@ metafile = true
 [[files]]
 file = "mods/the-one-probe.pw.toml"
 hash = "260f0330b42aa9e33b8fb8165d06f64d29540b42f121dc9746c6ebcb7ef55158"
+metafile = true
+
+[[files]]
+file = "mods/tick-dynamic.pw.toml"
+hash = "22c4c6f891d4e453b09b0412e53c5649ecadf2596fb51e7a35029b6aaa3d7814"
 metafile = true
 
 [[files]]
