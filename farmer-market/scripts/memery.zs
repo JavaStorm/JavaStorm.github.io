@@ -1,1 +1,0 @@
-<harvestcraft:vanillaicecreamitem>.addTooltip(format.red("Get outta there, Iggy!"));

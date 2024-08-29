@@ -1,8 +1,0 @@
-{
-	"name": "Settler's Guide",
-	"landing_text": "    On behalf of the Her Majesty, we would like to thank you once again for volunteering to be the first settler in this new land. This book shall asssit in your endeavors",
-	"version": 1,
-	"book_texture": "patchouli:textures/gui/book_red.png",
-	"model": "patchouli:book_purple"
-	
-}
